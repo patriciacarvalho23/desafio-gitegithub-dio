@@ -1,2 +1,4 @@
-# desafio-gitegithub-dio
-Desafio de projeto sobre Git e Github
+# Desafio Git e Github - DIO
+Projeto de desafio Git-Github.
+
+
